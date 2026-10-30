@@ -1,16 +1,42 @@
-## Hi there 👋
+## Sobre mí
 
-<!--
-**juANO2202/juANO2202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudio Ingeniería en Software y construyo aplicaciones web claras, accesibles y cuidadas en los detalles: desde la interfaz hasta una API con microservicios. Busco **prácticas profesionales** y proyectos donde seguir aprendiendo con equipos reales.
 
-Here are some ideas to get you started:
+> **EN:** Software Engineering student building clear, accessible web applications, from the UI to a .NET microservices backend. Open to internships and new projects. (English: basic level.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,js,html,css)
+
+**Backend y datos**
+
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,mssql,docker)
+
+**Herramientas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,npm,vscode)
+
+También: APIs REST · JWT · Microservicios · Accesibilidad · Diseño responsive
+
+## Proyecto destacado
+
+### 💳 [Simulador de crédito](https://github.com/juANO2202/SimuladordePrestamos)
+
+Aplicación web para simular créditos de consumo, hipotecarios y educativos con sistema francés o alemán.
+
+- Calcula la tabla de amortización con interés y seguro de desgravamen.
+- Guarda el historial por usuario y exporta el resultado a PDF.
+- Backend con microservicios **.NET 8** tras un **API Gateway (YARP)**, autenticación **JWT** y **SQL Server**, todo con **Docker**.
+
+`.NET 8` `React` `SQL Server` `Docker` `YARP` `JWT`
+
+## Portafolio
+
+Mi portafolio personal está hecho con Next.js, TypeScript y Tailwind CSS v4: [Portafolio-](https://github.com/juANO2202/Portafolio-).
+
+## Contacto
+
+[![Email](https://img.shields.io/badge/Email-juan.pashma2202%40gmail.com-1f2937?style=flat&logo=gmail&logoColor=white)](mailto:juan.pashma2202@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-juANO2202-1f2937?style=flat&logo=github&logoColor=white)](https://github.com/juANO2202)
