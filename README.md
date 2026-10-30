@@ -35,6 +35,16 @@ Aplicación web para simular créditos de consumo, hipotecarios y educativos con
 ## Portafolio
 
 Mi portafolio personal está hecho con Next.js, TypeScript y Tailwind CSS v4: [Portafolio-](https://github.com/juANO2202/Portafolio-).
+## Actividad en GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juANO2202&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juANO2202&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juANO2202&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad" width="100%" />
+
+</div>
 
 ## Contacto
 
